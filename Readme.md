@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Terraform for Golden Bear
+Terraform for [Golden Bear](https://goldenbear.io)
 
 ## Contents
 
